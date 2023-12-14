@@ -4,7 +4,7 @@ function indexOfIgnoreCase(s1, s2):number {
   const lowerSubStr = s1.toLowerCase()
 
 
-  return lowerStr.indexOf(lowerSubStr);
+  return lowerStr.indexOf(lowerSubStr); 
 	
 }
 
